@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=SPICE Pool Launcher
+Comment=Open consoles from your Proxmox resource pool
+Exec=/usr/bin/python3 /opt/github_repo/spice-launcher/launcher.py
+Icon=preferences-desktop-remote-desktop
+Terminal=false
+Categories=System;RemoteAccess;
+StartupWMClass=launcher.py
